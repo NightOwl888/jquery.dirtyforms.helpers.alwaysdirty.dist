@@ -4,7 +4,8 @@
   "description": "A helper to force forms to always be dirty when using JQuery Dirty Forms.",
   "main": "jquery.dirtyforms.helpers.alwaysdirty.min.js",
   "files": [
-	"jquery.dirtyforms.helpers.alwaysdirty.*"
+	"jquery.dirtyforms.helpers.alwaysdirty.*",
+	"LICENSE*"
   ],
   "dependencies": {
     "jquery.dirtyforms": ">=1.0.0"
