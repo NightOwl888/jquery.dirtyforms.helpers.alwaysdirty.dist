@@ -49,6 +49,7 @@ The Always Dirty helper is even available through [NPM](http://npmjs.org), [Bowe
 
 [![NPM version](https://badge.fury.io/js/jquery.dirtyforms.helpers.alwaysdirty.svg)](http://www.npmjs.org/package/jquery.dirtyforms.helpers.alwaysdirty)
 [![Bower version](https://badge.fury.io/bo/jquery.dirtyforms.helpers.alwaysdirty.svg)](http://bower.io/search/?q=jquery.dirtyforms.helpers.alwaysdirty)
+[![NuGet version](https://badge.fury.io/nu/jquery.dirtyforms.helpers.alwaysdirty.svg)](https://www.nuget.org/packages/jquery.dirtyforms.helpers.alwaysdirty/)
 
 [![NPM](https://nodei.co/npm/jquery.dirtyforms.helpers.alwaysdirty.png?compact=true)](https://nodei.co/npm/jquery.dirtyforms.helpers.alwaysdirty/)
 ```
